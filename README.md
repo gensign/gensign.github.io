@@ -1,8 +1,12 @@
+# Summary of Experience
+
 ## About Me
 
     1. How I got into Data Analysis
     2. What interests me about data
     3. WHere does my passions lie in data analytics
+
+# Contact Details and Links
 
 ## Projects
     Project 1:
@@ -13,4 +17,4 @@
 
     Project 3:
     SUmmary of Project 3
-    
+
