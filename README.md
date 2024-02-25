@@ -1,15 +1,12 @@
 # The Slate Theme
 
 ## About Me
-About Me:
 
 1. How I got into Data Analysis
 2. What interests me about data
 3. WHere does my passions lie in data analytics
 
 ## Projects
-Projects:
-
     Project 1:
     SUmmary of Project 1
 
