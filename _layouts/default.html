@@ -5,7 +5,7 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
-    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.scss">
 
 {% seo %}
     {% include head-custom.html %}
@@ -19,11 +19,15 @@
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
           {% endif %}
-          <div class="portfoliophoto" >
-            <img src="/assets/images/Grant 5.jpg" alt="Grant Ensign Professional Headshot" style="width: 20rem;">
-          </div>
-          <h1 id="project_title">Data And Me</h1>
-          <h2 id="project_tagline">Grant Ensign Data Portfolio</h2>
+          <div id="contain">
+            <div class="box1">
+              <img src="/assets/images/Grant 5.jpg" alt="Grant Ensign Professional Headshot" class="portfoliophoto">
+            </div>
+            <div class="box2">
+              <h1 id="project_title">Data And Me</h1>
+              <h2 id="project_tagline">Grant Ensign Data Portfolio</h2>
+            </div>
+        </div>
 <!-- 
           {% if site.show_downloads %}
             <section id="downloads">
