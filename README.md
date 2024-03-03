@@ -1,3 +1,5 @@
+![headshot](/assets/images/Grant%205.jpg)
+
 ## About Me
 
 During college, I developed a keen interest in data analysis, particularly its applications to diverse fields. I'm passionate about using data to solve both professional and personal challenges, finding satisfaction in solving problems and informing decisions. 
