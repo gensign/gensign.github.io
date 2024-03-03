@@ -2,19 +2,17 @@
 
 ## About Me
 
-    1. How I got into Data Analysis
-    2. What interests me about data
-    3. WHere does my passions lie in data analytics
+    During college, I developed a keen interest in data analysis, particularly its applications in diverse fields. I'm passionate about using data to solve both professional and personal challenges, finding satisfaction in solving problems and informed decisions. 
 
-# Contact Details and Links
+## Contact Details and Links
 
-## Projects
+## Projects 
     Project 1:
-    SUmmary of Project 1
+    Summary of Project 1
 
     Project 2:
-    SUmmary of Porject 2
+    Summary of Porject 2
 
     Project 3:
-    SUmmary of Project 3
-
+    Summary of Project 3
+   
